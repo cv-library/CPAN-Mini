@@ -33,7 +33,7 @@ $_ = File::Spec->abs2rel($_, $tempdir) for @files;
 my @want = qw(
   RECENT
   authors/01mailrc.txt.gz
-  authors/id/O/OP/OPRIME/Bug-Gold-9.001.tar.gz
+  authors/id/O/OP/OPRIME/Bug-Gold-8.91.tar.gz
   authors/id/O/OP/OPRIME/CHECKSUMS
   authors/id/O/OP/OPRIME/XForm-Rollout-1.00.tar.gz
   authors/id/X/XY/XYZZY/CHECKSUMS
